@@ -31,16 +31,6 @@ Unlike a standard data analysis project, this is built as a **Business Analyst d
 > No Python cleaning required — the dataset is already clean. Analysis starts directly in SQL.
 
 ---
-## Dataset
-
-- **Name:** IBM HR Analytics Employee Attrition Dataset
-- **Source:** [Kaggle Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- **Size:** 1,470 employees | 35 columns
-- **Departments:** Sales, Research & Development, Human Resources
-
-> No Python cleaning required — the dataset is already clean. Analysis starts directly in SQL.
-
----
 ## SQL Analysis — 5 Queries
 
 ### Query 1 — Overall Picture
