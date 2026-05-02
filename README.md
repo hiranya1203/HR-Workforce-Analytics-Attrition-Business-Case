@@ -117,7 +117,7 @@ Attrition by Overtime | Job Satisfaction | Age Group — all colour coded red to
 **View 3 — Department Heatmap**
 Job Role vs Department matrix showing attrition rate — Sales Representative (red, 39.8%) stands out clearly
 
-> **Live Dashboard:** [Add your Tableau Public link here]
+> **Live Dashboard:** [https://public.tableau.com/views/hr_dashboard_17777123419810/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ---
 ## PowerPoint Business Case — 14 Slides
